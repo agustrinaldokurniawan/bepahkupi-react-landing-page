@@ -1,0 +1,62 @@
+{
+  "en": {
+    "title": "We present for",
+    "content": [
+      {
+        "title": "Serve best quality coffee seeds",
+        "description": "We oversee the picking, processing, dryingprocess to the process of presenting theproduct. This makes Bepahkupi productshave a guaranteed aroma, taste, and qualityand are supported by the latest technology.Bepahkupi is a glimmer of hope for coffeefarmers, so that the farmers' economy willimprove.",
+        "image": "seed"
+      },
+      {
+        "title": "Ensuring fair trade",
+        "description": "Bepahkupi plays a role in ensuring development or processing so that there are no monopolistic practices that agriculture still uses to harm farmers by cutting traditional chains, the distribution of coffee by linking the products is not too good, so that farmers' products are directly linked to the market.",
+        "image": "fairTrade"
+      },
+      {
+        "title": "Provide your coffee bean stock needs",
+        "description": "Bepahkupi provides raw materials from Aceh Gayo where coffee plantations in this land have been developed since 1908, coffee flourishes in Bener Meriah Regency, Central Aceh and a small part of the Gayo Lues region. The availability of coffee raw materials provided by Bepahkupi is able to meet the needs of a large market with guaranteed quality.",
+        "image": "stock"
+      }
+    ]
+  },
+  "cn": {
+    "title": "我们为",
+    "content": [
+      {
+        "title": "提供最优质的咖啡种子",
+        "description": "我们在产品展示期间监督选择，加工和干燥过程。这使Bepahkupi产品具有保证的香气，味道和质量，并得到最新技术的支持。",
+        "image": "seed"
+      },
+      {
+        "title": "确保公平交易",
+        "description": "Bepahkupi在确保开发或加工中发挥作用。因此，没有农业垄断仍然可以通过切断传统链条来伤害农民。通过链接产品分配的咖啡效果不是很好，因此农民的产品和市场也是如此。",
+        "image": "fairTrade"
+      },
+      {
+        "title": "提供您的咖啡豆库存需求",
+        "description": "Bepahkupi从亚齐盖奥（Aceh Gayo）（自1908年起就开始种植咖啡的土地）开始，在亚齐（Aceh）中部的Bener Meriah摄政区，加耶鲁咖啡（Gayo Lu Coffee）提供原材料。斯里兰卡的一小部分地区正在蓬勃发展。 Bepahkupi提供的咖啡原料可以保证质量，满足大型市场的需求。",
+        "image": "stock"
+      }
+    ]
+  },
+  "id": {
+    "title": "Kami mempersembahkan",
+    "content": [
+      {
+        "title": "Sajikan biji kopi kualitas terbaik",
+        "description": "Kami mengawasi proses pemetikan, pemrosesan, pengeringan hingga proses penyajian produk. Hal ini menjadikan produk Bepahkupi memiliki aroma, rasa, dan kualitas yang terjamin serta didukung oleh teknologi terkini. Bepahkupi merupakan secercah harapan bagi para petani kopi, agar perekonomian petani semakin meningkat.",
+        "image": "seed"
+      },
+      {
+        "title": "Menjamin perdagangan yang adil",
+        "description": "Bepahkupi berperan dalam memastikan pengembangan atau pengolahan agar tidak ada praktek monopoli yang masih digunakan pertanian untuk merugikan petani dengan cara memutus rantai tradisional, peredaran kopi dengan cara mengaitkan produk kurang baik, sehingga produk petani langsung terkait pasar.",
+        "image": "fairTrade"
+      },
+      {
+        "title": "Sediakan kebutuhan stok biji kopi Anda",
+        "description": "Bepahkupi menyediakan bahan baku dari Aceh Gayo dimana perkebunan kopi di tanah ini telah dikembangkan sejak tahun 1908, kopi tumbuh subur di Kabupaten Bener Meriah, Aceh Tengah dan sebagian kecil wilayah Gayo Lues. Ketersediaan bahan baku kopi yang disediakan Bepahkupi mampu memenuhi kebutuhan pasar yang besar dengan kualitas yang terjamin.",
+        "image": "stock"
+      }
+    ]
+  }
+}

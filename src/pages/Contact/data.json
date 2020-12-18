@@ -1,0 +1,98 @@
+{
+  "en": {
+    "title": "Contact Us",
+    "informations": [
+      {
+        "icon": "email",
+        "value": "hello@bepahkupi.com"
+      },
+      {
+        "icon": "whatsapp",
+        "value": "0812-8423-3906"
+      },
+      {
+        "icon": "map",
+        "value": "The City Tower, Jl. M.H. Thamrin No.81, Dukuh Atas, Menteng, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310, Indonesia."
+      }
+    ],
+    "form": {
+      "name": "Name",
+      "phoneNumber": "Phone Number",
+      "email": "Email",
+      "message": "Message",
+      "textSubmit": "Send"
+    },
+    "success": {
+      "title": "Message Sent",
+      "message": "Thanks for touching us. We will reply your message as soon as possible."
+    },
+    "error": {
+      "title": "Error",
+      "message": "Something went wrong, check your form."
+    }
+  },
+  "id": {
+    "title": "Hubungi Kami",
+    "informations": [
+      {
+        "icon": "email",
+        "value": "hello@bepahkupi.com"
+      },
+      {
+        "icon": "whatsapp",
+        "value": "0812-8423-3906"
+      },
+      {
+        "icon": "map",
+        "value": "The City Tower, Jl. M.H. Thamrin No.81, Dukuh Atas, Menteng, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310, Indonesia."
+      }
+    ],
+    "form": {
+      "name": "Nama",
+      "phoneNumber": "Nomor HP",
+      "email": "Email",
+      "message": "Pesan",
+      "textSubmit": "Kirim"
+    },
+    "success": {
+      "title": "Pesan Terkirim",
+      "message": "Terima kasih telah menghubungi kami. Kami akan membalas pesan Anda sesegera mungkin."
+    },
+    "error": {
+      "title": "Error",
+      "message": "Ada yang tidak beres, periksa formulir Anda."
+    }
+  },
+  "cn": {
+    "title": "联系我们",
+    "informations": [
+      {
+        "icon": "email",
+        "value": "hello@bepahkupi.com"
+      },
+      {
+        "icon": "whatsapp",
+        "value": "0812-8423-3906"
+      },
+      {
+        "icon": "map",
+        "value": "The City Tower, Jl. M.H. Thamrin No.81, Dukuh Atas, Menteng, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310, Indonesia."
+      }
+    ],
+    "form": {
+      "name": "名称",
+      "phoneNumber": "电话号码",
+      "email": "电子邮件",
+      "message": "信息",
+      "textSubmit": "发送"
+    },
+    "success": {
+      "title": "讯息已发送",
+      "message": "感谢您与我们联系。我们会尽快回复你。"
+    },
+    "error": {
+      "title": "错误",
+      "message": "出现问题，请检查您的表格。"
+    }
+  }
+}

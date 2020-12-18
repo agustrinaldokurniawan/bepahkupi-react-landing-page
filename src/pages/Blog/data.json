@@ -1,0 +1,20 @@
+{
+  "en": {
+    "readMore": "Read More",
+    "discover": "Discover Articles",
+    "search": "Search",
+    "placeholder": "Search article"
+  },
+  "cn": {
+    "readMore": "阅读更多",
+    "discover": "发现文章",
+    "search": "搜索",
+    "placeholder": "搜索文章"
+  },
+  "id": {
+    "readMore": "Baca Lebih Lanjut",
+    "discover": "Temukan Artikel",
+    "search": "Temukan",
+    "placeholder": "Cari artikel"
+  }
+}

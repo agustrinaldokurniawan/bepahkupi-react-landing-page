@@ -1,0 +1,17 @@
+{
+  "en": {
+    "title": "Welcome to Bepahkupi",
+    "description": "Bepahkupi is here to make Indonesian’s coffee farmers prosperous and create an educated coffee farming ecosystem.GO-GLOBAL INDONESIAN COFFEE!",
+    "textButton": "Buy Now"
+  },
+  "id": {
+    "title": "Selamat datang di Bepahkupi",
+    "description": "Bepahkupi hadir untuk menyejahterakan petani kopi Indonesia dan menciptakan ekosistem pertanian kopi yang terdidik. KOPI INDONESIA GO-GLOBAL!",
+    "textButton": "Beli sekarang"
+  },
+  "cn": {
+    "title": "欢迎来到Bepahkupi",
+    "description": "Bepahkupi在这里使印尼咖啡种植者繁荣起来，并建立一个受过良好教育的咖啡种植生态系统。",
+    "textButton": "立即购买"
+  }
+}

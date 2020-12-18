@@ -1,0 +1,107 @@
+{
+  "en": {
+    "title": "Awards",
+    "awards": [
+      {
+        "icon": "techToImpact",
+        "title": "Top 10 Tech To Impact Asia",
+        "description": "UK Indonesia Tech Hub and UK Government"
+      },
+      {
+        "icon": "startupTurkey",
+        "title": "Top 100 Startup Turkey",
+        "description": "Etohum Yatirim"
+      },
+      {
+        "icon": "dilo",
+        "title": "Top Winners DILo Customer Validation",
+        "description": "DILo & Telkom Indonesia"
+      },
+      {
+        "icon": "aws",
+        "title": "The Winners AWS Summit",
+        "description": "Amazon"
+      },
+      {
+        "icon": "indigo",
+        "title": "The Winners indigo Creative Nation",
+        "description": "Telkom Indonesia"
+      },
+      {
+        "icon": "korean",
+        "title": "Top 27 Korean Asean Business Competition 2020",
+        "description": "Korean-Asean"
+      }
+    ]
+  },
+  "cn": {
+    "title": "获奖情况",
+    "awards": [
+      {
+        "icon": "techToImpact",
+        "title": "前10名Tech To Impact Asia",
+        "description": "UK Indonesia Tech Hub and UK Government"
+      },
+      {
+        "icon": "startupTurkey",
+        "title": "Startup Turkey前100名",
+        "description": "Etohum Yatirim"
+      },
+      {
+        "icon": "dilo",
+        "title": "DILo客户验证最佳获奖者",
+        "description": "DILo & Telkom Indonesia"
+      },
+      {
+        "icon": "aws",
+        "title": "优胜者AWS峰会",
+        "description": "Amazon"
+      },
+      {
+        "icon": "indigo",
+        "title": "优胜者indigo Creative Nation",
+        "description": "Telkom Indonesia"
+      },
+      {
+        "icon": "korean",
+        "title": "2020年韩国东盟商业竞赛27强",
+        "description": "Korean-Asean"
+      }
+    ]
+  },
+  "id": {
+    "title": "Penghargaan",
+    "awards": [
+      {
+        "icon": "techToImpact",
+        "title": "Peringkat 10 Tech To Impact Asia",
+        "description": "UK Indonesia Tech Hub dan UK Government"
+      },
+      {
+        "icon": "startupTurkey",
+        "title": "Peringkat 100 Startup Turkey",
+        "description": "Etohum Yatirim"
+      },
+      {
+        "icon": "dilo",
+        "title": "Juara DILo Customer Validation",
+        "description": "DILo & Telkom Indonesia"
+      },
+      {
+        "icon": "aws",
+        "title": "Juara AWS Summit",
+        "description": "Amazon"
+      },
+      {
+        "icon": "indigo",
+        "title": "Juara indigo Creative Nation",
+        "description": "Telkom Indonesia"
+      },
+      {
+        "icon": "korean",
+        "title": "Peringkat 27 Kompetisi Bisnis Korean Asean 2020",
+        "description": "Korean-Asean"
+      }
+    ]
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "en": {
+    "title": "How do we process our products ?",
+    "content": [
+      {
+        "title": "Harvest",
+        "description": "Bepahkupi works with educated farmers to harvest coffee cherries. Picked coffee is coffee that has been perfectly ripe and red in color. The characteristics of a coffee are judged by the level of maturity. The first one is green and yellowish green fruit like this are advised not to pick them, the same color Reddish yellow fruit like this can be picked, the three colors are full red indicates that a fully ripe coffee fruit like this is a coffee fruit the best and best to pick and the fourth one is this deep red color Indicates that suvvdah coffee is too ripe, this color indicates coffee must be taken immediately.",
+        "image": "harvest"
+      },
+      {
+        "title": "Sortation of coffee fruit",
+        "description": "Coffee fruit are sorted based on quality. Good coffee fruit is coffee fruit avoid dirt, deformed fruit and diseased fruit of this separation serves to determine the quality grade of coffee quality.",
+        "image": "sortationFruit"
+      },
+      {
+        "title": "Peeling red fruit skin",
+        "description": "The peeling of the coffee skin is done manually and with machine power, however The recommended peeling of the coffee skin is vigorous stripping machine, during stripping flow water continuously into the pulping machine. Water drain function to soften the fruit skin tissue so that it is easily removed from the seeds. The result of the peeling process is that the coffee beans still have skin horn or also called HS coffee bean.",
+        "image": "peelingRed"
+      },
+      {
+        "title": "Fermentation of coffee seeds hs",
+        "description": "There are two ways to ferment coffee, namely by soaking the coffee beans in water clean and pile up the wet seeds in a cement tub and then cover them with a constant gunny sack The fermentation process in tropical environments takes 12-36 hours. Once on fermented coffee beans then washed with clean water to clean the remains of the mucus and the coffee skin still stuck to the coffee beans.",
+        "image": "fermentation"
+      },
+      {
+        "title": "Drying coffee seeds hs",
+        "description": "At this stage the results of the fermentation of the cleaned coffee beans are then dried drying can be done by drying manually or using a machine drying. for drying, sprinkle HS coffee beans evenly on the thick drying floor the stack of coffee beans should be no more than 4 cm. turn the coffee beans regularly, especially when still in a wet state. Drying time is around 2 - 3 weeks.",
+        "image": "drying"
+      },
+      {
+        "title": "Sortation and drying of seeds",
+        "description": "After the coffee cherries are peeled, we perform sorting to separate the desired product with the rest of the fruit skin, horn skin, broken coffee beans and other impurities. Coffee beans will be stable if water content is 12%. Bepah kupi always supervises this separation / sorting process to maintain quality of coffee produced.",
+        "image": "sortationDrying"
+      },
+      {
+        "title": "Peeling off the skin of the mark",
+        "description": "After the HS coffee beans reach a moisture content of 12%, peel off the horn skin that covers the beans. Stripping can be ground or with the aid of a huller. Recommended by machine for reduce the risk of damage to coffee beans. The result of stripping at this stage is called rice coffee beans (green bean).",
+        "image": "peelingMark"
+      },
+      {
+        "title": "Packaging and storage",
+        "description": "Bepahkupi pack coffee beans in clean sacks and away from odors. To storage for a long time, the stack of coffee sacks is on a wooden pallet 10 cm thick. and have a gap between the pile of sacks and the wall of the warehouse. Warehouse humidity always controlled with a humidity range (RH) of 70% in our warehouse.",
+        "image": "packaging"
+      }
+    ]
+  },
+  "cn": {
+    "title": "我们如何处理我们的产品？",
+    "content": [
+      {
+        "title": "收成",
+        "description": "Bepahkupi与受过良好教育的农民合作，收获咖啡樱桃。挑选的咖啡已完全成熟，呈红色。咖啡的特性取决于其成熟度。第一个是绿色和浅黄色绿色水果。建议不要选择它们。您可以选择相同颜色的红色和黄色水果。这三种颜色都是红色，这意味着这种完全成熟的咖啡水果是最好的咖啡水果。最好的选择是，第四个是深红色，这意味着suvvdah咖啡太熟了，这种颜色意味着必须立即食用咖啡。",
+        "image": "harvest"
+      },
+      {
+        "title": "咖啡果的分类",
+        "description": "咖啡果根据质量进行分类。好的咖啡果是咖啡果，避免污垢，变形的水果和有病的水果的这种分离有助于确定咖啡品质的质量等级。",
+        "image": "sortationFruit"
+      },
+      {
+        "title": "剥红色水果皮",
+        "description": "咖啡皮的剥皮是通过机器手动进行的，但是建议将咖啡皮剥皮的方法是大力剥皮机，因为在剥皮过程中，水会连续流到制浆机中。排水功能可软化水果皮组织，使其很容易从种子中去除。剥皮过程的结果是，咖啡豆仍具有角皮或也称为HS咖啡豆。",
+        "image": "peelingRed"
+      },
+      {
+        "title": "咖啡种子发酵",
+        "description": "发酵咖啡有两种方法，一种是将咖啡豆浸泡在水中，然后将湿的种子堆放在水泥桶中，然后用恒定的麻袋将其覆盖。在热带环境中，发酵过程需要12-36小时。一旦放入发酵咖啡豆，然后用清水清洗以清除粘液残留物，并且咖啡皮仍粘附在咖啡豆上。",
+        "image": "fermentation"
+      },
+      {
+        "title": "干燥咖啡种子",
+        "description": "在此阶段，将干燥过的咖啡豆的发酵结果进行干燥，然后通过手动干燥或使用机器干燥进行干燥。要进行干燥，请将HS咖啡豆均匀撒在厚的干燥地板上，咖啡豆堆的长度不得超过4厘米。定期转动咖啡豆，尤其是在潮湿状态下。干燥时间约为2-3周。",
+        "image": "drying"
+      },
+      {
+        "title": "种子分选和干燥",
+        "description": "将咖啡樱桃去皮后，我们进行分类，以将所需产品与其余果皮，角皮，破碎的咖啡豆和其他杂质分开。如果水分含量为12％，则咖啡豆将保持稳定。 Bepah kupi始终监督此分离/分选过程，以保持所生产咖啡的质量。",
+        "image": "sortationDrying"
+      },
+      {
+        "title": "剥去印记的皮肤",
+        "description": "HS咖啡豆的水分含量达到12％之后，请剥去覆盖咖啡豆的角皮。剥皮可以磨碎或借助脱壳机进行。机器推荐使用，以减少损坏咖啡豆的风险。在此阶段进行剥离的结果称为米咖啡豆（绿豆）。",
+        "image": "peelingMark"
+      },
+      {
+        "title": "包装及储存",
+        "description": "Bepahkupi将咖啡豆装在干净的麻袋中，并且没有异味。为了长时间存放，咖啡袋堆放在一个10厘米厚的木托盘上。并且在麻袋堆和仓库壁之间留有空隙。在我们的仓库中，始终将仓库湿度控制在70％的湿度范围（RH）。",
+        "image": "packaging"
+      }
+    ]
+  },
+  "id": {
+    "title": "Bagaimana kami mengolah produk kami ?",
+    "content": [
+      {
+        "title": "Panen",
+        "description": "Bepahkupi bekerja sama dengan petani yang sudah teredukasi untuk memanen buah kopi. Kopi yang dipetik adalah kopi yang telah matang penuh dan berwarna merah. karakteristik sebuah kopi dinilai dari tingkat kematangannya.yang pertama warna hijau dan hijau kekuningan buah seperti ini disarankan untuk tidak memetiknya,kedua warna kuning kemerahan buah seperti ini sudah dapat untuk dipetik,ketiga warna merah penuh menunjukan bahwa kopi telah matang sempurna buah kopi seperti ini adalah buah kopi yang paling baik dan bagus untuk dipetik dan yang keempat warna merah tua warna ini menunjukan bahwa kopi suvvdah kelewat matang warna seperti ini menunjukan kopi harus segera di petik.",
+        "image": "harvest"
+      },
+      {
+        "title": "Sortasi buah kopi",
+        "description": "Buah kopi disortir berdasarkan kualitasnya.buah kopi yang baik adalah buah kopi yang terhindar dari kotoran,buah yang cacat dan buah yang berpenyakit pemisahan ini berfungsi untuk menentukan grade kualitas mutu kopi.",
+        "image": "sortationFruit"
+      },
+      {
+        "title": "Pengupasan kulit buah merah",
+        "description": "Pengupasan kulit kopi dilakukan dengan cara manual dan bertenaga mesin akan tetapi pengupasan kulit kopi yang disarankan adalah pengupasan secara bertenaga mesin,selama pengupasan alirkan air secara terus menerus kedalam mesin pengupas. Fungsi pengaliran air untuk melunakkan jaringan kulit buah agar mudah terlepas dari bijinya. Hasil dari proses pengupasan adalah biji kopi yang masih masih memiliki kulit tanduk atau disebut juga biji kopi HS.",
+        "image": "peelingRed"
+      },
+      {
+        "title": "Fermentasi biji kopi hs",
+        "description": "Terdapat dua cara dalam melakukan fermentasi kopi yaitu dengan cara merendam biji kopi dalam air bersih dan menumpuk biji basah dalam bak semen lalu ditutup dengan karung goni yang selalu dibasahi.proses fermentasi di lingkungan tropis membutuhkan waktu 12-36 jam. Setelah di fermentasi biji kopi kemudian dicuci dengan air bersih bersihkan sisa–sisa lendir dan kulit kopi yang masih menempel di biji kopi.",
+        "image": "fermentation"
+      },
+      {
+        "title": "Pengeringan biji kopi hs",
+        "description": "Pada tahap ini hasil fermentasi biji kopi yang telah dibersihkan kemudian dikeringkan proses pengeringan bisa dilakukan dengan cara pengeringan secara manual maupun menggunakan mesin pengeringan.untuk penjemuran,taburkan biji kopi HS secara merata di atas lantai jemur ketebalan tumpukan biji kopi sebaiknya tidak lebih dari 4 cm.balik biji kopi secara teraturan terutama ketika masih dalam keadaan basah. Lama penjemuran sekitar 2 – 3 minggu.",
+        "image": "drying"
+      },
+      {
+        "title": "Pengupasan kulit tanduk",
+        "description": "Setelah biji kopi HS mencapai kadar air 12%, kupas kulit tanduk yang menyelimuti biji. Pengupasan bisa ditumbuk atau dengan bantuan mesin pengupas (huller). Dianjurkan dengan mesin untuk mengurangi resiko kerusakan biji kopi. Hasil pengupasan pada tahap ini disebut biji kopi beras (green bean).",
+        "image": "sortationDrying"
+      },
+      {
+        "title": "Sortasi dan pengeringan biji",
+        "description": "Setelah buah kopi dikupas, kami melakukan sortasi untuk memisahkan produk yang diinginkan dengan sisa kulit buah, kulit tanduk, biji kopi pecah dan kotoran lainnya. Biji kopi akan stabil bila kadar airnya 12%. Bepah kupi selalu mengawal proses pemisahan/penyortiran ini untuk menjaga kualitas kopi yang dihasilkan.",
+        "image": "peelingMark"
+      },
+      {
+        "title": "Pengemasan dan penyimpanan",
+        "description": "Bepahkupi mengemas biji kopi dengan karung yang bersih dan jauh dari bau-bauan. Untuk penyimpanan yang lama, tumpukan karung kopi tersebut diatas sebuah palet kayu setebal 10 cm. serta memiliki jarak antara tumpukan karung dengan dinding gudang. Kelembaban gudang selalu dikontrol dengan kisaran kelembaban (RH) 70% pada gudang kami.",
+        "image": "packaging"
+      }
+    ]
+  }
+}

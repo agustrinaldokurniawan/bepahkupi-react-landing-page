@@ -1,0 +1,77 @@
+{
+  "en": {
+    "title": "Our Partner",
+    "partners": [
+      {
+        "icon": "telkom",
+        "title": "Telkom Indonesia"
+      },
+      {
+        "icon": "ecodoe",
+        "title": "Ecodoe"
+      },
+      {
+        "icon": "ub",
+        "title": "Bakrie University"
+      },
+      {
+        "icon": "pertanian",
+        "title": "Ministry of Agriculture"
+      },
+      {
+        "icon": "indigo",
+        "title": "indigo Creative Nation"
+      }
+    ]
+  },
+  "cn": {
+    "title": "我们的业务伙伴",
+    "partners": [
+      {
+        "icon": "telkom",
+        "title": "Telkom Indonesia"
+      },
+      {
+        "icon": "ecodoe",
+        "title": "Ecodoe"
+      },
+      {
+        "icon": "ub",
+        "title": "Bakrie University"
+      },
+      {
+        "icon": "pertanian",
+        "title": "农业部"
+      },
+      {
+        "icon": "indigo",
+        "title": "indigo Creative Nation"
+      }
+    ]
+  },
+  "id": {
+    "title": "我们的业务伙伴",
+    "partners": [
+      {
+        "icon": "telkom",
+        "title": "Telkom Indonesia"
+      },
+      {
+        "icon": "ecodoe",
+        "title": "Ecodoe"
+      },
+      {
+        "icon": "ub",
+        "title": "Universitas Bakrie"
+      },
+      {
+        "icon": "pertanian",
+        "title": "Kementrian Pertanian"
+      },
+      {
+        "icon": "indigo",
+        "title": "indigo Creative Nation"
+      }
+    ]
+  }
+}

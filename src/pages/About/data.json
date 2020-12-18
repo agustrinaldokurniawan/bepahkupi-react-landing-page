@@ -1,0 +1,29 @@
+{
+  "en": {
+    "title": "We are on a Mission",
+    "description": "Bepahkupi is here to help solve the problems faced by Gayo Aceh coffee farmers by cutting the distribution chain so that farmers can connect directly to consumers.",
+    "bepahkupi": {
+      "title": "Bepahkupi Founded",
+      "description": "Bepahkupi was founded by a son from Aceh Indonesia, named Maulana Wiga in 2019, this company was born because Wiga's concern for the level of welfare of coffee farmers has not increased, amid the high price of Indonesian coffee in the domestic and international markets. Currently Bepahkupi has collaborated with hundreds of Indonesian coffee farmers, Bepahkupi aspires to be able to create a better Indonesian agricultural ecosystem and GO-GLOBAL and can help coffee farming communities to improve their lives so that they become better in terms of education and economy.",
+      "image": "wiga"
+    }
+  },
+  "cn": {
+    "title": "我们正在执行任务",
+    "description": "Bepahkupi在这里通过切断分销链来帮助解决Gayo Aceh咖啡种植者面临的问题，使种植者可以直接与消费者建立联系。",
+    "bepahkupi": {
+      "title": "Bepahkupi成立",
+      "description": "Bepahkupi由来自亚齐（Aceh Indonesia）的儿子于2019年创立，名为Maulana Wiga。该公司之所以成立，是因为在印尼咖啡在国内外市场上价格居高不下的情况下，Wiga对咖啡种植者福利水平的关注并未增加。目前，Bepahkupi已与数百名印度尼西亚咖啡农合作，Bepahkupi希望能够建立更好的印度尼西亚农业生态系统和GO-GLOBAL，并能够帮助咖啡种植社区改善生活，使他们的教育和经济状况变得更好。",
+      "image": "wiga"
+    }
+  },
+  "id": {
+    "title": "Kami sedang dalam Misi",
+    "description": "Bepahkupi hadir untuk membantu menyelesaikan permasalahan yang dihadapi petani kopi Gayo Aceh dengan memutus rantai distribusi agar petani dapat terhubung langsung dengan konsumen.",
+    "bepahkupi": {
+      "title": "Bepahkupi Didirikan",
+      "description": "Bepahkupi didirikan oleh seorang putra asal Aceh Indonesia bernama Maulana Wiga pada tahun 2019, perusahaan ini lahir karena kepedulian Wiga terhadap tingkat kesejahteraan petani kopi belum meningkat, ditengah mahalnya harga kopi Indonesia di pasar domestik maupun internasional. Saat ini Bepahkupi telah bekerjasama dengan ratusan petani kopi Indonesia, Bepahkupi bercita-cita untuk dapat menciptakan ekosistem pertanian Indonesia yang lebih baik dan GO-GLOBAL serta dapat membantu masyarakat petani kopi untuk meningkatkan taraf hidupnya sehingga menjadi lebih baik dalam hal pendidikan dan ekonomi.",
+      "image": "wiga"
+    }
+  }
+}

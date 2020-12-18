@@ -1,0 +1,227 @@
+{
+  "en": {
+    "footer": {
+      "copyright": "© Bepahkupi 2019 - 2020. All rights reserved.",
+      "menu": [
+        {
+          "title": "Term of Service",
+          "url": "/term-of-service"
+        },
+        {
+          "title": "Privacy Policy",
+          "url": "/privacy-policy"
+        }
+      ]
+    },
+    "contact": {
+      "title": "Contact Us",
+      "contacts": [
+        {
+          "icon": "email",
+          "value": "hello@bepahkupi.com"
+        },
+        {
+          "icon": "whatsapp",
+          "value": "0812-8423-3906"
+        },
+        {
+          "icon": "map",
+          "value": "The City Tower, Jl. M.H. Thamrin No.81, Dukuh Atas, Menteng, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310, Indonesia."
+        }
+      ]
+    },
+    "store": {
+      "title": "Official Store",
+      "stores": [
+        {
+          "name": "Bepahkupi Store",
+          "url": "#"
+        },
+        {
+          "name": "Tokopedia",
+          "url": "https://www.tokopedia.com/bepahkupiofc?source=universe&st=product"
+        },
+        {
+          "name": "Shopee",
+          "url": "https://www.bukalapak.com/u/bepahkupi?from=omnisearch&from_keyword_history=false&search_source=omnisearch_user&source=navbar"
+        },
+        {
+          "name": "Bukalapak",
+          "url": "https://www.bukalapak.com/u/bepahkupi?from=omnisearch&from_keyword_history=false&search_source=omnisearch_user&source=navbar"
+        }
+      ]
+    },
+    "socialMedia": {
+      "title": "Social Media",
+      "description": "Follow us on social media to get our latest news about coffee.",
+      "socials": [
+        {
+          "icon": "facebook",
+          "url": "https://www.facebook.com/bepah.kupi?_rdc=1&_rdr"
+        },
+        {
+          "icon": "instagram",
+          "url": "https://www.instagram.com/bepahkupi/"
+        },
+        {
+          "icon": "twitter",
+          "url": "https://twitter.com/bepahkupi"
+        },
+        {
+          "icon": "youtube",
+          "url": "https://www.youtube.com/channel/UCA01Wbi5SbVdoJBU6ylYZUA"
+        }
+      ]
+    }
+  },
+  "cn": {
+    "footer": {
+      "copyright": "©Bepahkupi 2019-2020。版权所有。",
+      "menu": [
+        {
+          "title": "服务期限",
+          "url": "/term-of-service"
+        },
+        {
+          "title": "隐私政策",
+          "url": "/privacy-policy"
+        }
+      ]
+    },
+    "contact": {
+      "title": "联系我们",
+      "contacts": [
+        {
+          "icon": "email",
+          "value": "hello@bepahkupi.com"
+        },
+        {
+          "icon": "whatsapp",
+          "value": "0812-8423-3906"
+        },
+        {
+          "icon": "map",
+          "value": "The City Tower, Jl. M.H. Thamrin No.81, Dukuh Atas, Menteng, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310, Indonesia."
+        }
+      ]
+    },
+    "store": {
+      "title": "官方店铺",
+      "stores": [
+        {
+          "name": "Bepahkupi Store",
+          "url": "#"
+        },
+        {
+          "name": "Tokopedia",
+          "url": "https://www.tokopedia.com/bepahkupiofc?source=universe&st=product"
+        },
+        {
+          "name": "Shopee",
+          "url": "https://www.bukalapak.com/u/bepahkupi?from=omnisearch&from_keyword_history=false&search_source=omnisearch_user&source=navbar"
+        },
+        {
+          "name": "Bukalapak",
+          "url": "https://www.bukalapak.com/u/bepahkupi?from=omnisearch&from_keyword_history=false&search_source=omnisearch_user&source=navbar"
+        }
+      ]
+    },
+    "socialMedia": {
+      "title": "社交媒体",
+      "description": "在社交媒体上关注我们，以获取有关咖啡的最新消息。",
+      "socials": [
+        {
+          "icon": "facebook",
+          "url": "https://www.facebook.com/bepah.kupi?_rdc=1&_rdr"
+        },
+        {
+          "icon": "instagram",
+          "url": "https://www.instagram.com/bepahkupi/"
+        },
+        {
+          "icon": "twitter",
+          "url": "https://twitter.com/bepahkupi"
+        },
+        {
+          "icon": "youtube",
+          "url": "https://www.youtube.com/channel/UCA01Wbi5SbVdoJBU6ylYZUA"
+        }
+      ]
+    }
+  },
+  "id": {
+    "footer": {
+      "copyright": "© Bepahkupi 2019 - 2020. All rights reserved.",
+      "menu": [
+        {
+          "title": "Ketentuan Layanan",
+          "url": "/term-of-service"
+        },
+        {
+          "title": "Privacy Policy",
+          "url": "/privacy-policy"
+        }
+      ]
+    },
+    "contact": {
+      "title": "Hubungi Kami",
+      "contacts": [
+        {
+          "icon": "email",
+          "value": "hello@bepahkupi.com"
+        },
+        {
+          "icon": "whatsapp",
+          "value": "0812-8423-3906"
+        },
+        {
+          "icon": "map",
+          "value": "The City Tower, Jl. M.H. Thamrin No.81, Dukuh Atas, Menteng, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310, Indonesia."
+        }
+      ]
+    },
+    "store": {
+      "title": "Toko Resmi",
+      "stores": [
+        {
+          "name": "Bepahkupi Store",
+          "url": "#"
+        },
+        {
+          "name": "Tokopedia",
+          "url": "https://www.tokopedia.com/bepahkupiofc?source=universe&st=product"
+        },
+        {
+          "name": "Shopee",
+          "url": "https://www.bukalapak.com/u/bepahkupi?from=omnisearch&from_keyword_history=false&search_source=omnisearch_user&source=navbar"
+        },
+        {
+          "name": "Bukalapak",
+          "url": "https://www.bukalapak.com/u/bepahkupi?from=omnisearch&from_keyword_history=false&search_source=omnisearch_user&source=navbar"
+        }
+      ]
+    },
+    "socialMedia": {
+      "title": "Media Sosial",
+      "description": "Ikuti kami di media sosial untuk mendapatkan berita terbaru kami tentang kopi.",
+      "socials": [
+        {
+          "icon": "facebook",
+          "url": "https://www.facebook.com/bepah.kupi?_rdc=1&_rdr"
+        },
+        {
+          "icon": "instagram",
+          "url": "https://www.instagram.com/bepahkupi/"
+        },
+        {
+          "icon": "twitter",
+          "url": "https://twitter.com/bepahkupi"
+        },
+        {
+          "icon": "youtube",
+          "url": "https://www.youtube.com/channel/UCA01Wbi5SbVdoJBU6ylYZUA"
+        }
+      ]
+    }
+  }
+}

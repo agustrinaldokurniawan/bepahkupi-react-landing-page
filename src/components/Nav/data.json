@@ -1,0 +1,68 @@
+{
+  "en": {
+    "menu": [
+      {
+        "name": "Home",
+        "url": "/"
+      },
+      {
+        "name": "Blog",
+        "url": "/blog"
+      },
+      {
+        "name": "Contact Us",
+        "url": "/contact"
+      },
+      {
+        "name": "About Us",
+        "url": "/about"
+      }
+    ],
+    "textButton": "Buy Now",
+    "motto": "Pure Romance from The Motherland"
+  },
+  "cn": {
+    "menu": [
+      {
+        "name": "主菜单",
+        "url": "/"
+      },
+      {
+        "name": "博客",
+        "url": "/blog"
+      },
+      {
+        "name": "联系我们",
+        "url": "/contact"
+      },
+      {
+        "name": "关于我们",
+        "url": "/about"
+      }
+    ],
+    "textButton": "立即购买",
+    "motto": "来自祖国的纯粹浪漫"
+  },
+  "id": {
+    "menu": [
+      {
+        "name": "Beranda",
+        "url": "/"
+      },
+      {
+        "name": "Blog",
+        "url": "/blog"
+      },
+      {
+        "name": "Hubungi kami",
+        "url": "/contact"
+      },
+      {
+        "name": "Tentang kami",
+        "url": "/about"
+      }
+    ],
+    "textButton": "Beli Sekarang",
+    "motto": "Romansa Murni dari Tanah Pertiwi"
+  }
+}

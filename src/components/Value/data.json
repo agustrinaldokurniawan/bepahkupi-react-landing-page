@@ -1,0 +1,92 @@
+{
+  "en": {
+    "title": "Why you should choose Bepahkupi ?",
+    "values": [
+      {
+        "title": "Innovation for The Future",
+        "description": "We believe innovation collaborating with technology will produce something extraordinary in the future.",
+        "icon": "innovationIcon"
+      },
+      {
+        "title": "We Care About Our farmers, And The Coffee Lovers",
+        "description": "We care about the welfare of farmers and coffee lovers in the world and are entitled to enjoy coffee from the best beans ever grown.",
+        "icon": "farmerIcon"
+      },
+      {
+        "title": "Education for The Coffee Family",
+        "description": "Education is the key, therefore all educated bepahkupi farmers, as well as farmer families have the right to higher education and world coffee lovers understand that the best coffee is born from a broad mind and soul.",
+        "icon": "educationIcon"
+      },
+      {
+        "title": "Green The Earth",
+        "description": "Bepahkupi will green the planet with  the best plants and organic care for all coffee plants.",
+        "icon": "greenEarthIcon"
+      },
+      {
+        "title": "The Greatest Team",
+        "description": "Bepahkupi's team is a special force. All of whom have different skills. This is our strength, to create products that zcan be enjoyed by everyone.",
+        "icon": "teamIcon"
+      }
+    ]
+  },
+  "cn": {
+    "title": "为什么要选择Bepahkupi？",
+    "values": [
+      {
+        "title": "面向未来的创新",
+        "description": "我们相信，创新与技术合作将在未来产生非凡的成就。",
+        "icon": "innovationIcon"
+      },
+      {
+        "title": "我们关心我们的农民和咖啡爱好者",
+        "description": "我们关心世界各地的农民和咖啡爱好者的福利，并有权享用有史以来最优质的咖啡豆。",
+        "icon": "farmerIcon"
+      },
+      {
+        "title": "咖啡家庭教育",
+        "description": "教育是关键。因此，所有受过良好教育的农民和农民家庭都有权接受高等教育。全世界的咖啡爱好者都知道，最好的咖啡来自各种各样的想法和灵魂。",
+        "icon": "educationIcon"
+      },
+      {
+        "title": "绿土",
+        "description": "Bepahkupi将为所有咖啡植物提供最好的植物和有机护理，以绿化地球。",
+        "icon": "greenEarthIcon"
+      },
+      {
+        "title": "最伟大的团队",
+        "description": "Bepahkupi的团队是一支特种部队。他们都有不同的技能。这是我们创造每个人都能享受的z产品的力量。",
+        "icon": "teamIcon"
+      }
+    ]
+  },
+  "id": {
+    "title": "Mengapa Anda harus memilih Bepahkupi?",
+    "values": [
+      {
+        "title": "Inovasi untuk Masa Depan",
+        "description": "Kami yakin inovasi yang berkolaborasi dengan teknologi akan menghasilkan sesuatu yang luar biasa di masa depan.",
+        "icon": "innovationIcon"
+      },
+      {
+        "title": "Kami Peduli Dengan Petani Kami, Dan Para Pecinta Kopi",
+        "description": "Kami peduli dengan kesejahteraan petani dan pecinta kopi di dunia dan berhak menikmati kopi dari biji terbaik yang pernah ditanam.",
+        "icon": "farmerIcon"
+      },
+      {
+        "title": "Pendidikan untuk Keluarga Kopi",
+        "description": "Pendidikan adalah kuncinya, oleh karena itu semua petani bepahkupi terdidik, serta keluarga petani berhak mengenyam pendidikan tinggi dan pecinta kopi dunia paham bahwa kopi terbaik lahir dari budi dan jiwa yang luas.",
+        "icon": "educationIcon"
+      },
+      {
+        "title": "Menghijaukan Bumi",
+        "description": "Bepahkupi akan menghijaukan planet dengan tanaman terbaik dan perawatan organik untuk semua tanaman kopi.",
+        "icon": "greenEarthIcon"
+      },
+      {
+        "title": "Tim Terbaik",
+        "description": "Tim Bepahkupi adalah pasukan khusus. Semuanya memiliki keahlian yang berbeda-beda. Inilah kekuatan kami, untuk menciptakan produk yang bisa dinikmati semua orang.",
+        "icon": "teamIcon"
+      }
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "en": {
+    "title": "Join Us",
+    "description": "Subscribe to get our latest news and exclusive discounts.",
+    "textButton": "Subscribe",
+    "success": {
+      "title": "Welcome to the club",
+      "message": "Thank you for subscribing, we will email you the latest news and our exclusive discounts especially for you."
+    },
+    "error": {
+      "title": "Error",
+      "message": "Something went wrong, check your email."
+    }
+  },
+  "cn": {
+    "title": "加入我们",
+    "description": "订阅以获得我们的最新新闻和独家折扣。",
+    "textButton": "订阅",
+    "success": {
+      "title": "欢迎来到俱乐部",
+      "message": "感谢您的订阅，我们将特别为您发送电子邮件给您最新消息和独家折扣。"
+    },
+    "error": {
+      "title": "错误",
+      "message": "发生问题，请检查您的电子邮件。"
+    }
+  },
+  "id": {
+    "title": "Bergabunglah dengan kami",
+    "description": "Berlangganan untuk mendapatkan berita terbaru dan diskon eksklusif kami.",
+    "textButton": "Langganan",
+    "success": {
+      "title": "Selamat Bergabung",
+      "message": "Terima kasih telah berlangganan, kami akan mengirimkan email berita terbaru dan diskon eksklusif kami khusus untuk kamu."
+    },
+    "error": {
+      "title": "Error",
+      "message": "Ada yang tidak beres, periksa email Anda."
+    }
+  }
+}

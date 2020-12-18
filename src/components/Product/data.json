@@ -1,0 +1,179 @@
+{
+  "en": {
+    "title": "Our products",
+    "products": [
+      {
+        "image": "semiWash",
+        "title": "Arabica Gayo Half Wash",
+        "profile": [
+          {
+            "title": "Cupped Note",
+            "value": "Chocolate, BlackBerry, Floral"
+          },
+          {
+            "title": "Location",
+            "value": "Bener Kelipah, Kab. Bener Meriah (single origin)"
+          },
+          {
+            "title": "Process",
+            "value": "Half Wash"
+          }
+        ]
+      },
+      {
+        "image": "fullWash",
+        "title": "Arabica Gayo Full Wash",
+        "profile": [
+          {
+            "title": "Cupped Note",
+            "value": "Floral, Chocolate, Herby"
+          },
+          {
+            "title": "Location",
+            "value": "Bener Kelipah, Kab. Bener Meriah (single origin)"
+          },
+          {
+            "title": "Process",
+            "value": "Full Wash"
+          }
+        ]
+      },
+      {
+        "image": "honey",
+        "title": "Arabica Gayo Honey",
+        "profile": [
+          {
+            "title": "Cupped Note",
+            "value": "Chocolate, fruity, Cherry"
+          },
+          {
+            "title": "Location",
+            "value": "Bener Kelipah, Kab. Bener Meriah (single origin)"
+          },
+          {
+            "title": "Process",
+            "value": "Honey"
+          }
+        ]
+      }
+    ]
+  },
+  "cn": {
+    "title": "我们的产品",
+    "products": [
+      {
+        "image": "semiWash",
+        "title": "阿拉比卡咖啡加耶半洗",
+        "profile": [
+          {
+            "title": "杯形便笺",
+            "value": "巧克力，黑莓，花香"
+          },
+          {
+            "title": "位置",
+            "value": "Bener Kelipah, Kab. Bener Meriah (single origin)"
+          },
+          {
+            "title": "处理",
+            "value": "半洗"
+          }
+        ]
+      },
+      {
+        "image": "fullWash",
+        "title": "阿拉比卡咖啡Gayo全洗",
+        "profile": [
+          {
+            "title": "杯形便笺",
+            "value": "花香，巧克力，香草"
+          },
+          {
+            "title": "位置",
+            "value": "Bener Kelipah, Kab. Bener Meriah (single origin)"
+          },
+          {
+            "title": "处理",
+            "value": "全洗"
+          }
+        ]
+      },
+      {
+        "image": "honey",
+        "title": "阿拉比卡咖啡Gayo蜜糖",
+        "profile": [
+          {
+            "title": "杯形便笺",
+            "value": "巧克力，果味，樱桃"
+          },
+          {
+            "title": "位置",
+            "value": "Bener Kelipah, Kab. Bener Meriah (single origin)"
+          },
+          {
+            "title": "处理",
+            "value": "蜜糖"
+          }
+        ]
+      }
+    ]
+  },
+  "id": {
+    "title": "Produk kami",
+    "products": [
+      {
+        "image": "semiWash",
+        "title": "Arabica Gayo Half Wash",
+        "profile": [
+          {
+            "title": "Cupped Note",
+            "value": "Chocolate, BlackBerry, Floral"
+          },
+          {
+            "title": "Lokasi",
+            "value": "Bener Kelipah, Kab. Bener Meriah (single origin)"
+          },
+          {
+            "title": "Proses",
+            "value": "Half Wash"
+          }
+        ]
+      },
+      {
+        "image": "fullWash",
+        "title": "Arabica Gayo Full Wash",
+        "profile": [
+          {
+            "title": "Cupped Note",
+            "value": "Floral, Chocolate, Herby"
+          },
+          {
+            "title": "Lokasi",
+            "value": "Bener Kelipah, Kab. Bener Meriah (single origin)"
+          },
+          {
+            "title": "Proses",
+            "value": "Full Wash"
+          }
+        ]
+      },
+      {
+        "image": "honey",
+        "title": "Arabica Gayo Honey",
+        "profile": [
+          {
+            "title": "Cupped Note",
+            "value": "Chocolate, fruity, Cherry"
+          },
+          {
+            "title": "Lokasi",
+            "value": "Bener Kelipah, Kab. Bener Meriah (single origin)"
+          },
+          {
+            "title": "Proses",
+            "value": "Honey"
+          }
+        ]
+      }
+    ]
+  }
+}
