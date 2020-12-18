@@ -88,7 +88,11 @@ const Contact = () => {
         <div className="row m-0 justify-content-center align-items-center mb-5">
           <div className="col-lg-5 p-0 mb-3 text-center">
             <h1>{Data[lang].title}</h1>
-            <Button onClick={() => (window.location.href = "/")}>
+            <Button
+              onClick={() =>
+                (window.location.href = "https://goo.gl/maps/oLjd7GAd69XKPDPf6")
+              }
+            >
               <img src={contactImage} alt="contact" className="mt-5 mb-5" />
             </Button>
             {Data[lang].informations.map((item, key) => {
