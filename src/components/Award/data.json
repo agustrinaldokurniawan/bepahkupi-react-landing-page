@@ -14,13 +14,8 @@
       },
       {
         "icon": "dilo",
-        "title": "Top Winners DILo Customer Validation",
+        "title": "The Winners DILo Customer Validation",
         "description": "DILo & Telkom Indonesia"
-      },
-      {
-        "icon": "aws",
-        "title": "The Winners AWS Summit",
-        "description": "Amazon"
       },
       {
         "icon": "indigo",
@@ -53,11 +48,6 @@
         "description": "DILo & Telkom Indonesia"
       },
       {
-        "icon": "aws",
-        "title": "优胜者AWS峰会",
-        "description": "Amazon"
-      },
-      {
         "icon": "indigo",
         "title": "优胜者indigo Creative Nation",
         "description": "Telkom Indonesia"
@@ -86,11 +76,6 @@
         "icon": "dilo",
         "title": "Juara DILo Customer Validation",
         "description": "DILo & Telkom Indonesia"
-      },
-      {
-        "icon": "aws",
-        "title": "Juara AWS Summit",
-        "description": "Amazon"
       },
       {
         "icon": "indigo",

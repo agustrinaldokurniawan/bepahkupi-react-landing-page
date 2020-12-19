@@ -9,6 +9,7 @@ import ecodoe from "../../assets/icons/ecodoe.png";
 import telkom from "../../assets/icons/telkom.png";
 import indigo from "../../assets/icons/indigo.png";
 import ub from "../../assets/icons/ub.png";
+import aws from "../../assets/icons/aws.png";
 
 import { Swiper, SwiperSlide } from "swiper/react";
 
@@ -22,6 +23,7 @@ const Partner = () => {
     indigo: indigo,
     telkom: telkom,
     ub: ub,
+    aws: aws,
   };
 
   const PartnerSlide = () => {
@@ -41,7 +43,7 @@ const Partner = () => {
             <SwiperSlide key={key} className="pt-3 mt-3 mb-5">
               <div className="row m-0  justify-content-center align-items-center ">
                 <div className="col-12">
-                  <img src={icons[item.icon]} alt={item.title} />
+                  <img src={icons[item.icon]} alt={item.title} width={"50%"} />
                 </div>
                 <div className="col-12 mt-5">
                   <h6 style={{ fontWeight: 600 }}>{item.title}</h6>

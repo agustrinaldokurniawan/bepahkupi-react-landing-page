@@ -51,7 +51,11 @@ const Process = () => {
                       className="col-md-6 col-12 mb-md-0 mb-3"
                       style={{ display: "flex", justifyContent: "center" }}
                     >
-                      <img src={images[item.image]} alt={item.title} />
+                      <img
+                        src={images[item.image]}
+                        alt={item.title}
+                        width={"100%"}
+                      />
                     </div>
                     <div className="col-md-6 col-12 text-left">
                       <h3 className="text-left">{item.title}</h3>

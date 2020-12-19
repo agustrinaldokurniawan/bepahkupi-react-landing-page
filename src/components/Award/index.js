@@ -8,7 +8,6 @@ import startupTurkey from "../../assets/icons/startupTurkey.png";
 import dilo from "../../assets/icons/dilo.png";
 import indigo from "../../assets/icons/indigo.png";
 import korean from "../../assets/icons/korean.png";
-import aws from "../../assets/icons/aws.png";
 import techToImpact from "../../assets/icons/techToImpact.png";
 
 import { Swiper, SwiperSlide } from "swiper/react";
@@ -22,7 +21,6 @@ const Award = () => {
     dilo: dilo,
     indigo: indigo,
     korean: korean,
-    aws: aws,
     techToImpact: techToImpact,
   };
 
@@ -46,7 +44,7 @@ const Award = () => {
             >
               <div className="row m-0">
                 <div className="col-12">
-                  <img src={icons[item.icon]} alt={item.title} />
+                  <img src={icons[item.icon]} alt={item.title} width={"50%"} />
                 </div>
                 <div className="col-12 mt-5">
                   <h6 style={{ fontWeight: 600 }}>{item.title}</h6>

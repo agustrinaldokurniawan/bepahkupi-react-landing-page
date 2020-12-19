@@ -90,6 +90,7 @@ const CollapseNav = (props) => {
                         marginRight: 50,
                         fontSize: 30,
                         marginBottom: 20,
+                        whiteSpace: "nowrap",
                         fontWeight:
                           props.url === item.url || touchedMenu == item.name
                             ? "400"

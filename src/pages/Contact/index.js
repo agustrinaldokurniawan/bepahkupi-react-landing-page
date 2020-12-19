@@ -75,7 +75,7 @@ const Contact = () => {
   };
 
   return (
-    <div className="row m-0">
+    <div className="row m-0 justify-content-center">
       <PopupNotif
         show={show}
         status={status}
@@ -85,15 +85,20 @@ const Contact = () => {
       />
       <Nav />
       <div className="col-11 p-0" style={{ marginTop: 120 }}>
-        <div className="row m-0 justify-content-center align-items-center mb-5">
-          <div className="col-lg-5 p-0 mb-3 text-center">
+        <div className="row m-0 justify-content-center align-items-center  mb-5">
+          <div className="col-lg-5 col-11 p-0 mb-3 text-center">
             <h1>{Data[lang].title}</h1>
             <Button
               onClick={() =>
                 (window.location.href = "https://goo.gl/maps/oLjd7GAd69XKPDPf6")
               }
             >
-              <img src={contactImage} alt="contact" className="mt-5 mb-5" />
+              <img
+                src={contactImage}
+                alt="contact"
+                className="mt-5 mb-5"
+                width={"80%"}
+              />
             </Button>
             {Data[lang].informations.map((item, key) => {
               return (

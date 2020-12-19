@@ -7,6 +7,10 @@
         "title": "Telkom Indonesia"
       },
       {
+        "icon": "aws",
+        "title": "AWS"
+      },
+      {
         "icon": "ecodoe",
         "title": "Ecodoe"
       },
@@ -32,6 +36,10 @@
         "title": "Telkom Indonesia"
       },
       {
+        "icon": "aws",
+        "title": "AWS"
+      },
+      {
         "icon": "ecodoe",
         "title": "Ecodoe"
       },
@@ -50,11 +58,15 @@
     ]
   },
   "id": {
-    "title": "我们的业务伙伴",
+    "title": "Mitra Bisnis Kami",
     "partners": [
       {
         "icon": "telkom",
         "title": "Telkom Indonesia"
+      },
+      {
+        "icon": "aws",
+        "title": "AWS"
       },
       {
         "icon": "ecodoe",

@@ -20,7 +20,6 @@ const About = () => {
       <div className="col-12 p-0">
         <Jumbotron
           title={Data[lang].title}
-          description={Data[lang].description}
           menuDown={{ link: "/about#bepahkupi-founded", status: true }}
           button={{ status: false }}
         />
@@ -28,7 +27,7 @@ const About = () => {
       <div className="col-12 p-0 pt-5 mb-5" id="bepahkupi-founded">
         <div className="row m-0 justify-content-center align-items-center">
           <div className="col-lg-5 col-11 text-center mt-5">
-            <img src={wiga} alt="CEO Bepahkupi" />
+            <img src={wiga} alt="CEO Bepahkupi" width={"80%"} />
           </div>
           <div className="col-lg-5 col-11 mt-5">
             <h3>{Data[lang].bepahkupi.title}</h3>
