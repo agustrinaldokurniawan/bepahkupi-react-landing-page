@@ -50,6 +50,7 @@ const BigNav = (props) => {
               paddingLeft: 30,
               paddingRight: 30,
             }}
+            onClick={() => window.open("https://www.bepahkupi.com/shop")}
           >
             {Data[lang].textButton}
           </Button>

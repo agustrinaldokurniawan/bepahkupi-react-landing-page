@@ -31,7 +31,7 @@ const Product = () => {
         {Data[lang].products.map((item, key) => {
           return (
             <SwiperSlide key={key}>
-              <div className="col-11 p-0">
+              <div className="col-7 p-0">
                 <div className="row m-0 justify-content-center">
                   <div className="col-md-12 col-12 p-0">
                     <img
@@ -42,7 +42,7 @@ const Product = () => {
                   </div>
                   <div
                     className="col-md-12 col-12 p-0 pt-5 pb-5 p-2 text-white mb-5"
-                    style={{ backgroundColor: "#592F16", borderRadius: 20 }}
+                    style={{ backgroundColor: "#592F16", borderRadius: 10 }}
                   >
                     <h5>{item.title}</h5>
                     <p>{item.profile.title}</p>

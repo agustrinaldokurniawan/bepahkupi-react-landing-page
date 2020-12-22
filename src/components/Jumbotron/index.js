@@ -52,7 +52,7 @@ const Jumbotron = ({ title, description, menuDown, button, image }) => {
                   paddingLeft: 50,
                   paddingRight: 50,
                 }}
-                onClick={() => (window.location.href = button.link)}
+                onClick={() => window.open(button.link)}
               >
                 {button.text ? button.text : Data[lang].textButton}
               </Button>

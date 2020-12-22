@@ -18,7 +18,7 @@ const Home = () => {
       <div className="col-12 p-0">
         <Jumbotron
           menuDown={{ status: true, link: "/#product" }}
-          button={{ status: true, link: "#" }}
+          button={{ status: true, link: "https://www.bepahkupi.com/shop" }}
         />
       </div>
       <div className="col-12 p-0" id="product">
