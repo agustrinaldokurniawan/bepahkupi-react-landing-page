@@ -133,21 +133,21 @@ const SliderCart = (props) => {
       if (emailRegex.test(values.email)) {
         const phoneNumberRegex = /^[+]*[(]{0,1}[0-9]{1,4}[)]{0,1}[-\s\./0-9]*$/g;
         if (phoneNumberRegex.test(values.phoneNumber)) {
-          const addressRegex = /^[A-Za-z0-9\!\@\#\$\%\^\&\*\)\(+\=\._-]+$/g;
-          if (addressRegex.test(values.address)) {
-            if (values.promoCode) {
-              const promoRegex = /^[A-Za-z0-9\!\@\#\$\%\^\&\*\)\(+\=\._-]+$/g;
-              if (promoRegex.test(values.promoCode)) {
-                return true;
-              } else {
-                return "Promo code invalid";
-              }
-            } else {
+          // const addressRegex = /^[a-zA-Z0-9\s,'-.:=]*$/i;
+          // if (addressRegex.test(values.address)) {
+          if (values.promoCode) {
+            const promoRegex = /^[A-Za-z0-9\!\@\#\$\%\^\&\*\)\(+\=\._-]+$/g;
+            if (promoRegex.test(values.promoCode)) {
               return true;
+            } else {
+              return "Promo code invalid";
             }
           } else {
-            return "Address invalid";
+            return true;
           }
+          // } else {
+          //   return "Address invalid";
+          // }
         } else {
           return "Phone Number invalid";
         }
