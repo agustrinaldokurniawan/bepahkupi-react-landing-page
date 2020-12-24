@@ -52,6 +52,7 @@ const CheckEmail = ({ props }) => {
         .then((response) => {
           if (response.data.account) {
             setValues({ ...values, code: response.data.account.issue });
+            setMessage("Check email for verification code");
             setCodeForm(true);
           } else {
             setMessage(response.data.message);

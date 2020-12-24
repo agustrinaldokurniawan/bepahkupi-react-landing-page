@@ -44,7 +44,7 @@ const Signup = ({ props }) => {
       values.email.length > 0 &&
       values.password.length > 0
     ) {
-      const nameRegex = /^[A-Za-z]+$/g;
+      const nameRegex = /^[A-Za-z ]+$/g;
       if (nameRegex.test(values.name)) {
         const emailRegex = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
         if (emailRegex.test(values.email)) {
