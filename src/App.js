@@ -9,6 +9,13 @@ import ReadBlog from "./pages/Blog/readBlog";
 import PrivacyPolicy from "./pages/PrivacyPolicy";
 import TermOfService from "./pages/TermofService";
 
+import HomeStore from "./pages/HomeStore";
+import Product from "./pages/Product";
+import Cart from "./pages/Cart";
+import Order from "./pages/Order";
+
+import PrivateRoute from "./utils/privateRoute";
+
 const App = () => {
   return (
     <Router>
@@ -20,6 +27,11 @@ const App = () => {
         <Route exact path="/blog/:slug" component={ReadBlog} />
         <Route exact path="/privacy-policy" component={PrivacyPolicy} />
         <Route exact path="/term-of-service" component={TermOfService} />
+
+        <Route exact path="/shop" component={HomeStore} />
+        <Route exact path="/product/:productSlug" component={Product} />
+        <PrivateRoute exact path="/cart" component={Cart} />
+        <PrivateRoute exact path="/order" component={Order} />
       </Switch>
     </Router>
   );

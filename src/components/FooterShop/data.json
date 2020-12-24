@@ -34,10 +34,6 @@
       "title": "Official Store",
       "stores": [
         {
-          "name": "Bepahkupi Store",
-          "url": "/shop"
-        },
-        {
           "name": "Tokopedia",
           "url": "https://www.tokopedia.com/bepahkupiofc?source=universe&st=product"
         },
@@ -110,7 +106,7 @@
       "stores": [
         {
           "name": "Bepahkupi Store",
-          "url": "/shop"
+          "url": "#"
         },
         {
           "name": "Tokopedia",
@@ -118,7 +114,7 @@
         },
         {
           "name": "Shopee",
-          "url": "https://shopee.co.id/bepahkupiofficial"
+          "url": "https://www.bukalapak.com/u/bepahkupi?from=omnisearch&from_keyword_history=false&search_source=omnisearch_user&source=navbar"
         },
         {
           "name": "Bukalapak",
@@ -158,7 +154,7 @@
           "url": "/term-of-service"
         },
         {
-          "title": "Kebijakan Pribadi",
+          "title": "Privacy Policy",
           "url": "/privacy-policy"
         }
       ]
@@ -185,7 +181,7 @@
       "stores": [
         {
           "name": "Bepahkupi Store",
-          "url": "/shop"
+          "url": "#"
         },
         {
           "name": "Tokopedia",
@@ -193,7 +189,7 @@
         },
         {
           "name": "Shopee",
-          "url": "https://shopee.co.id/bepahkupiofficial"
+          "url": "https://www.bukalapak.com/u/bepahkupi?from=omnisearch&from_keyword_history=false&search_source=omnisearch_user&source=navbar"
         },
         {
           "name": "Bukalapak",

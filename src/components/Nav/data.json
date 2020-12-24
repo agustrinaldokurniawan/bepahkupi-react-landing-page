@@ -10,6 +10,10 @@
         "url": "/blog"
       },
       {
+        "name": "Shop",
+        "url": "/shop"
+      },
+      {
         "name": "Contact Us",
         "url": "/contact"
       },
@@ -32,6 +36,10 @@
         "url": "/blog"
       },
       {
+        "name": "店",
+        "url": "/shop"
+      },
+      {
         "name": "联系我们",
         "url": "/contact"
       },
@@ -52,6 +60,10 @@
       {
         "name": "Blog",
         "url": "/blog"
+      },
+      {
+        "name": "Toko",
+        "url": "/shop"
       },
       {
         "name": "Hubungi kami",

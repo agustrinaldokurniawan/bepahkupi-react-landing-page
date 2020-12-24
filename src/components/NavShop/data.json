@@ -1,0 +1,38 @@
+{
+  "en": {
+    "searchBar": "Search product",
+    "greeting": "Hello",
+    "motto": "Pure Romance from The Motherland",
+    "login": "Login",
+    "menu": [
+      {
+        "name": "Shop",
+        "url": "/"
+      },
+      {
+        "name": "Blog",
+        "url": "/blog"
+      },
+      {
+        "name": "Contact Us",
+        "url": "/contact"
+      },
+      {
+        "name": "About Us",
+        "url": "/about"
+      }
+    ]
+  },
+  "cn": {
+    "searchBar": "搜索产品",
+    "greeting": "你好",
+    "motto": "来自祖国的纯粹浪漫",
+    "login": "登录"
+  },
+  "id": {
+    "searchBar": "Cari produk",
+    "greeting": "Hai",
+    "motto": "Romansa Murni dari Tanah Pertiwi",
+    "login": "Masuk"
+  }
+}

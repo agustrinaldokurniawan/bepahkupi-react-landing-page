@@ -2,7 +2,6 @@
   "name": "landing-page",
   "version": "0.1.0",
   "private": true,
-
   "dependencies": {
     "@material-ui/core": "^4.11.2",
     "@material-ui/icons": "^4.11.2",
@@ -11,7 +10,9 @@
     "@testing-library/user-event": "^12.6.0",
     "aws-sdk": "^2.814.0",
     "axios": "^0.21.0",
+    "dateformat": "^4.4.1",
     "node-sass": "^4.14.1",
+    "numeral": "^2.0.6",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-id-swiper": "^2.3.2",
@@ -20,6 +21,7 @@
     "react-router-dom": "^5.2.0",
     "react-router-sitemap": "^1.2.0",
     "react-scripts": "4.0.1",
+    "react-select": "^3.1.1",
     "swiper": "^6.4.1",
     "web-vitals": "^0.2.4"
   },
@@ -27,7 +29,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"  },
+    "eject": "react-scripts eject"
+  },
   "eslintConfig": {
     "extends": [
       "react-app",
