@@ -14,7 +14,11 @@ import Product from "./pages/Product";
 import Cart from "./pages/Cart";
 import Order from "./pages/Order";
 
+import LoginAdmin from "./pages/admin/Login";
+import DashboardAdmin from "./pages/admin/Dashboard";
+
 import PrivateRoute from "./utils/privateRoute";
+import AdminPrivateRoute from "./utils/adminPrivateRoute";
 
 const App = () => {
   return (
@@ -27,6 +31,13 @@ const App = () => {
         <Route exact path="/blog/:slug" component={ReadBlog} />
         <Route exact path="/privacy-policy" component={PrivacyPolicy} />
         <Route exact path="/term-of-service" component={TermOfService} />
+
+        <Route exact path="/admin/login" component={LoginAdmin} />
+        <AdminPrivateRoute
+          exact
+          path="/admin/dashboard"
+          component={DashboardAdmin}
+        />
 
         <Route exact path="/shop" component={HomeStore} />
         <Route exact path="/product/:productSlug" component={Product} />

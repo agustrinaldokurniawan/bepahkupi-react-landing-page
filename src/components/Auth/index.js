@@ -3,6 +3,7 @@ import React, { useEffect, useState } from "react";
 import SignupModal from "./signup";
 import LoginModal from "./login";
 import CheckEmail from "./checkEmail";
+import AdminAuth from "./adminAuth";
 
 import Modal from "@material-ui/core/Modal";
 import Backdrop from "@material-ui/core/Backdrop";
@@ -46,6 +47,8 @@ const AuthModal = (props) => {
                 <LoginModal props={props} />
               ) : changedTyped == "signup" ? (
                 <SignupModal props={props} />
+              ) : changedTyped == "adminAuth" ? (
+                <AdminAuth props={props} />
               ) : (
                 <CheckEmail props={props} />
               )}
@@ -84,6 +87,8 @@ const AuthModal = (props) => {
                     Login Now
                   </span>
                 </small>
+              ) : props.back == false ? (
+                ""
               ) : (
                 <small>
                   Back{" "}
