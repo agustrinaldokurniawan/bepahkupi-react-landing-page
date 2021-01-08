@@ -66,7 +66,7 @@ const Contact = () => {
         email
       ) &&
       isPossiblePhoneNumber(phoneNumber) == true &&
-      name.match(/^[A-Za-z]+$/) &&
+      name.match(/^[A-Za-z ]+$/g) &&
       message
     ) {
       return toggleData("success");
