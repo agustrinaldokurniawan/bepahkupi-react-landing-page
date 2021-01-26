@@ -13,6 +13,7 @@ import Footer from "../../components/Footer";
 import PopupNotif from "../../components/PopupNotif";
 
 import PhoneInput, { isPossiblePhoneNumber } from "react-phone-number-input";
+import Rate from "../../components/Rate";
 
 import { Typography, TextField, Button } from "@material-ui/core";
 
@@ -84,6 +85,7 @@ const Contact = () => {
         toggleModal={toggleModal}
       />
       <Nav />
+      <Rate />
       <div className="col-11 p-0" style={{ marginTop: 120 }}>
         <div className="row m-0 justify-content-center align-items-center  mb-5">
           <div className="col-lg-5 col-11 p-0 mb-3 text-center">

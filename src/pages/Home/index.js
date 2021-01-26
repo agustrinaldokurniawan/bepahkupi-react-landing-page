@@ -11,10 +11,13 @@ import Subscribe from "../../components/Subscribe";
 import Footer from "../../components/Footer";
 import Nav from "../../components/Nav";
 
+import Rate from "../../components/Rate";
+
 const Home = () => {
   return (
     <div className="row m-0">
       <Nav />
+      <Rate />
       <div className="col-12 p-0">
         <Jumbotron
           menuDown={{ status: true, link: "/#product" }}

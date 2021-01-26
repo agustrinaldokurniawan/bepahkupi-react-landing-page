@@ -9,6 +9,7 @@ import Footer from "../../components/Footer";
 import RenderHTML from "react-render-html";
 import Jumbotron from "../../components/Jumbotron";
 import SliderBlog from "./sliderBlog";
+import Rate from "../../components/Rate";
 
 import Axios from "axios";
 
@@ -49,6 +50,7 @@ const Blog = () => {
   return (
     <div className="row m-0">
       <Nav />
+      <Rate />
       <div className="col-12 p-0">
         <Jumbotron
           title={choosenBlog.title}

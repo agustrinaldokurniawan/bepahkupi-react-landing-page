@@ -163,7 +163,7 @@ const DashboardAdmin = () => {
             <h1>Income</h1>
             <h3> Rp {MyNumeral(income).format("0,0.00")}</h3>
           </div>
-          <div
+          {/* <div
             style={{
               padding: 20,
               width: 400,
@@ -179,7 +179,7 @@ const DashboardAdmin = () => {
               ).format("0,0.00")}
               %
             </h3>
-          </div>
+          </div> */}
         </div>
       )}
       <div className="col-11">{orders && <ListOrdersNew />}</div>

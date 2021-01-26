@@ -11,12 +11,14 @@ import Jumbotron from "../../components/Jumbotron";
 import Provide from "../../components/Provide";
 import Team from "../../components/Team";
 
+import Rate from "../../components/Rate";
 const About = () => {
   const { lang } = LangUtils();
 
   return (
     <div className="row m-0">
       <Nav />
+      <Rate />
       <div className="col-12 p-0">
         <Jumbotron
           title={Data[lang].title}
