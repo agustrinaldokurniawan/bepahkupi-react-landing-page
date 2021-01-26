@@ -38,9 +38,9 @@ const About = () => {
       <div className="col-12 p-0">
         <Provide />
       </div>
-      <div className="col-12 p-0">
+      {/* <div className="col-12 p-0">
         <Team />
-      </div>
+      </div> */}
       <div className="col-12 p-0">
         <Footer />
       </div>

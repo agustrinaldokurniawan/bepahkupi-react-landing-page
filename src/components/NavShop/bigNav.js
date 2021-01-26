@@ -115,7 +115,7 @@ const BigNav = ({ products }) => {
               products.map((item, key) => {
                 return (
                   <a
-                    href={`/${item.name}`}
+                    href={`/product/${item.slug}`}
                     style={{
                       textDecoration: "none",
                       color: "black",

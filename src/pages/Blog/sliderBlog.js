@@ -46,7 +46,7 @@ const SliderBlog = () => {
               className="pt-3 mt-3 mb-5"
               style={{
                 display: searchKey
-                  ? item.title.includes(searchKey)
+                  ? item.title.toLowerCase().includes(searchKey.toLowerCase())
                     ? ""
                     : "none"
                   : "",

@@ -598,9 +598,9 @@ const Product = (props) => {
         <div className="col-12 p-0" style={{ marginTop: 100 }}>
           {product && <DetailProduct />}
         </div>
-        <div className="col-12 m-4">
+        {/* <div className="col-12 m-4">
           <AvailablePayments />
-        </div>
+        </div> */}
 
         <div className="col-12 m-4">
           <AvailableShipppings />

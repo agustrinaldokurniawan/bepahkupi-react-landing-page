@@ -219,11 +219,7 @@ const CollapseNav = (props) => {
                   return (
                     <a
                       key={key}
-                      href={
-                        item.url == "/"
-                          ? item.url
-                          : `https://www.bepahkupi.com${item.url}`
-                      }
+                      href={item.url == "/" ? item.url : `${item.url}`}
                       style={{
                         color: "black",
                         textDecoration: "none",
